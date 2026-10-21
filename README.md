@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Júlio César - Developer">
+</p>
+
 # Olá! Eu sou o Júlio Alexandre
 
 ### Desenvolvedor em formação | Web • Backend • Banco de Dados
