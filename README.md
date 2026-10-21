@@ -2,7 +2,7 @@
   <img src="./banner.png" width="100%" alt="Júlio César - Developer">
 </p>
 
-# Olá! Eu sou o Júlio César 
+# Olá! Eu sou o Júlio César
 
 ### Desenvolvedor em formação | Web • Backend • Banco de Dados
 
@@ -45,51 +45,121 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web, prog
 
 ---
 
-## Projetos em destaque
+# Projetos principais
 
-### Truck Parts
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## Truck Parts
 
 E-commerce desenvolvido para uma loja de peças para caminhões.
 
-**Tecnologias:**  
+**Tecnologias**
+
 `HTML` `CSS` `Flask` `Python` `MySQL`
 
-**Principais funcionalidades:**
+**Principais funcionalidades**
 
 - Cadastro e login de usuários
-- Carrinho de compras
 - Catálogo de produtos
-- Pesquisa de produtos
+- Pesquisa e filtros
+- Carrinho de compras
+- Finalização de compra
 - Banco de dados MySQL
 - Sistema de autenticação
-- Processo de finalização de compra
 
----
+<br>
 
-### Motorsport Platform
+<a href="https://github.com/Juliopaquit0">
+  <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-Projeto voltado para jovens pilotos que desejam entrar no mundo do automobilismo.
+</td>
 
-**Principais funcionalidades:**
+<td width="50%" valign="top">
+
+## Motorsport Platform
+
+Plataforma voltada para jovens pilotos que desejam evoluir no automobilismo.
+
+**Principais funcionalidades**
 
 - Registro de treinos
-- Vídeos de corridas
-- Acompanhamento da evolução do piloto
-- Técnicas de pilotagem
-- Registro de sessões
 - Acompanhamento de desempenho
+- Vídeos de corridas
+- Técnicas de pilotagem
+- Histórico de sessões
+- Evolução do piloto
 
----
+<br>
 
-### Projetos em C#
+<a href="https://github.com/Juliopaquit0">
+  <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-Projetos desenvolvidos durante meus estudos de programação.
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## Projetos em C#
+
+Coleção de projetos desenvolvidos durante meus estudos de programação e lógica.
+
+**Projetos**
 
 - Jogo de adivinhação
 - Blackjack
 - Snake
 - Sistemas interativos
-- Exercícios de lógica de programação
+- Exercícios de lógica
+
+**Tecnologia**
+
+`C#`
+
+<br>
+
+<a href="https://github.com/Juliopaquit0">
+  <img src="https://img.shields.io/badge/Ver%20projetos-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## Projetos em Python
+
+Projetos desenvolvidos para praticar programação, manipulação de dados e automação.
+
+**Estudos**
+
+- Pandas
+- Manipulação de dados
+- Filtros
+- Agrupamentos
+- Sistemas de cadastro
+- Lógica de programação
+
+**Tecnologia**
+
+`Python`
+
+<br>
+
+<a href="https://github.com/Juliopaquit0">
+  <img src="https://img.shields.io/badge/Ver%20projetos-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -106,47 +176,3 @@ Desenvolvimento Web
         ↓
   Desenvolvimento
      de Sistemas
-```
-
-Também estou buscando evoluir meus conhecimentos em:
-
-- Backend
-- Banco de dados
-- APIs
-- Git & GitHub
-- Arquitetura de sistemas
-- Desenvolvimento de aplicações
-
----
-
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juliopaquit0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliopaquit0&layout=compact&theme=tokyonight)
-
----
-
-## Minha atividade no GitHub
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-## Objetivo
-
-Continuar evoluindo como desenvolvedor, construir projetos cada vez mais completos e transformar conhecimento em aplicações reais.
-
----
-
-## Contato
-
-**E-mail:** [juliopedroalexandre@gmail.com](mailto:juliopedroalexandre@gmail.com)
-
-**LinkedIn:** jc Alexandre
-
-**GitHub:** [Juliopaquit0](https://github.com/Juliopaquit0)
-
----
-
-### Sempre aprendendo. Sempre construindo.
